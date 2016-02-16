@@ -1,3 +1,4 @@
+/* global process */
 const fs = require('fs'), spawn = require('child_process').spawn, filename = process.argv[2];
 
 if(!filename) {
