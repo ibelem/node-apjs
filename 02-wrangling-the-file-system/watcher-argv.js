@@ -1,3 +1,4 @@
+/* global process */
 const fs = require('fs'), filename = process.argv[2];
 
 if(!filename) { 
