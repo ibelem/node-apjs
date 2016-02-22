@@ -1,0 +1,9 @@
+ 2011  sudo -E add-apt-repository ppa:couchdb/stable -y
+ 2012  sudo -E
+ 2013  sudo apt-get update -y
+ 2014  sudo apt-get remove couchdb couchdb-bin couchdb-common -yf
+ 2015  sudo apt-get install -V couchdb
+ 2020  sudo couchdb
+ 
+ 2106  curl -O http://www.gutenberg.org/cache/epub/feeds/rdf-files.tar.bz2
+ 2108  tar -xvjf rdf-files.tar.bz2 

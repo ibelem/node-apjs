@@ -1,0 +1,9 @@
+{
+  "name": "xwalk-qa",
+  "version": "0.1.0",
+  "description": "Tools for Crosswalk QA",
+  "author": "Belem",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
